@@ -1,0 +1,17 @@
+{
+	"name": "ximindatafactory",
+	"properties": {
+		"globalParameters": {
+			"fiscalyear": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cde3f98e-b47e-4f5a-8a50-674d5c478b43",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
