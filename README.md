@@ -17,3 +17,8 @@ Resources: <br>
 Steps: <br>
 - Create above resources in Azure
 - Upload data to data lake gen2
+- Create Linked Services
+- Create datasets in Azure Data Factory
+- Create Data Flows and data pipelines
+- Create aggregated dataflow and pipelines
+- Connect github with Azure Data Factory and submit project
